@@ -1,0 +1,18 @@
+# Ignore Node.js modules
+node_modules/
+
+# Ignore user-specific files
+npm-debug.log
+.env
+
+# Ignore Mac system files
+.DS_Store
+
+# Ignore logs and other generated files
+logs/
+*.log
+npm-debug.log*
+
+# Ignore IDE-specific files
+.idea/
+.vscode/
